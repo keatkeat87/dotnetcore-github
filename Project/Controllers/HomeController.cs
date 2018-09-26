@@ -9,6 +9,7 @@ using Project.Models;
 namespace Project.Controllers
 {
     // v1
+    // v2
     public class HomeController : Controller
     {
         public IActionResult Index()
