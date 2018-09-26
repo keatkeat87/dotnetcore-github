@@ -8,12 +8,7 @@ using Project.Models;
 
 namespace Project.Controllers
 {
-    // test
-    // day 6
-    // day 8
-    // day 9
-    // day 10
-    // day 11
+    // test 
     public class HomeController : Controller
     {
         public IActionResult Index()
