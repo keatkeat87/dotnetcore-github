@@ -10,6 +10,7 @@ namespace Project.Controllers
 {
     // test
     // day 2 
+    // day 3
     public class HomeController : Controller
     {
         public IActionResult Index()
